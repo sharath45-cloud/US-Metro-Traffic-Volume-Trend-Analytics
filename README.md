@@ -4,18 +4,22 @@ An end-to-end **Power BI** data visualization and analytics project designed to 
 
 ---
 
-## 📁 Dashboard Access & File Info
-> 💡 **Note:** To explore the interactive dashboards, download the `.pbix` file directly from this repository and open it using Power BI Desktop.
+## 📁 Dashboard Access & Download
+> 💡 **How to download:** Click the link below to open the Power BI file page, then click the **Download** button on GitHub.
 > 
-> 📥 **Dashboard File Path:** `"C:\Users\shara\Downloads\traffic_analysis1.pbix"`
-
+> 📥 [Click Here to Download Power BI File (.pbix)]("C:\Users\shara\OneDrive\Desktop\traffic_data_analysis\traffic_analysis1.pbix")
 ---
 
 ## 🖼️ Dashboard Preview & Screenshots
-* **Weather & Environmental Impact:** `![Page 1](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c56e838a-5af1-40ab-83b5-0af77d83841b" />)`
-* **Year-over-Year Growth:** `![Page 2](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c358af37-f764-477b-b3d4-0cbe22694ad9" />)`
-* **24-Hour Peak Trends:** `![Page 3](<img width="387" height="278" alt="Image" src="https://github.com/user-attachments/assets/38a988a7-a44e-43c5-a66a-d27c88777a4d" />)`
 
+### Page 1: Weather & Environmental Impact
+![Page 1](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c56e838a-5af1-40ab-83b5-0af77d83841b" />)
+
+### Page 2: Year-over-Year Growth
+![Page 2](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c358af37-f764-477b-b3d4-0cbe22694ad9" />)
+
+### Page 3: 24-Hour Peak Trends
+![Page 3](<img width="387" height="278" alt="Image" src="https://github.com/user-attachments/assets/38a988a7-a44e-43c5-a66a-d27c88777a4d" />)
 ---
 
 ## 📊 Business & Urban Mobility Problem
