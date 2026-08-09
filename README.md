@@ -1,4 +1,4 @@
-# 🚗 US Metro Traffic Volume & Trend Analytics
+<img width="391" height="275" alt="Screenshot 2026-08-09 084529" src="https://github.com/user-attachments/assets/193bfb24-1e31-4f51-bffd-811d1ca5bc28" /># 🚗 US Metro Traffic Volume & Trend Analytics
 
 An end-to-end **Power BI** data visualization and analytics project designed to evaluate traffic patterns, analyze peak commute hours, and uncover environmental impacts using urban interstate traffic datasets.
 
@@ -7,7 +7,7 @@ An end-to-end **Power BI** data visualization and analytics project designed to 
 ## 📁 Dashboard Access & Download
 > 💡 **How to download:** Click the link below to open the Power BI file page, then click the **Download** button on GitHub.
 > 
-> 📥 [Click Here to Download Power BI File (.pbix)]("C:\Users\shara\OneDrive\Desktop\traffic_data_analysis\traffic_analysis1.pbix")
+> 📥 [Click Here to Download Power BI File (.pbix)](<img width="391" height="275" alt="Screenshot 2026-08-09 084529" src="https://github.com/user-attachments/assets/8bf8c960-7829-4fd6-b645-52c6d5640d28" />)
 ---
 
 ## 🖼️ Dashboard Preview & Screenshots
