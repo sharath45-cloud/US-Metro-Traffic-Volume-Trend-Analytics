@@ -12,9 +12,9 @@ An end-to-end **Power BI** data visualization and analytics project designed to 
 ---
 
 ## 🖼️ Dashboard Preview & Screenshots
-* **Weather & Environmental Impact:** `![Page 1](YOUR_IMAGE_URL_HERE)`
-* **Year-over-Year Growth:** `![Page 2](YOUR_IMAGE_URL_HERE)`
-* **24-Hour Peak Trends:** `![Page 3](YOUR_IMAGE_URL_HERE)`
+* **Weather & Environmental Impact:** `![Page 1](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c56e838a-5af1-40ab-83b5-0af77d83841b" />)`
+* **Year-over-Year Growth:** `![Page 2](<img width="391" height="275" alt="Image" src="https://github.com/user-attachments/assets/c358af37-f764-477b-b3d4-0cbe22694ad9" />)`
+* **24-Hour Peak Trends:** `![Page 3](<img width="387" height="278" alt="Image" src="https://github.com/user-attachments/assets/38a988a7-a44e-43c5-a66a-d27c88777a4d" />)`
 
 ---
 
