@@ -1,25 +1,32 @@
-<img width="391" height="275" alt="Screenshot 2026-08-09 084529" src="https://github.com/user-attachments/assets/193bfb24-1e31-4f51-bffd-811d1ca5bc28" /># 🚗 US Metro Traffic Volume & Trend Analytics
+# 🚗 US Metro Traffic Volume & Trend Analytics
 
 An end-to-end **Power BI** data visualization and analytics project designed to evaluate traffic patterns, analyze peak commute hours, and uncover environmental impacts using urban interstate traffic datasets.
 
 ---
 
 ## 📁 Dashboard Access & Download
-> 💡 **How to download:** Click the link below to open the Power BI file page, then click the **Download** button on GitHub.
+> 💡 **How to download:** Click the link below to go directly to the file page, then click the **Download** button on GitHub.
 > 
-> 📥 [Click Here to Download Power BI File (.pbix)](r'C:\Users\shara\Downloads\traffic_analysis1.pbix')
+> 📥 **[Click Here to Download Power BI File (.pbix)]("C:\Users\shara\Downloads\traffic_analysis1.pbix")**
+
 ---
 
 ## 🖼️ Dashboard Preview & Screenshots
+> 📌 *Note: Upload your dashboard screenshots into an `images` folder in your repository.*
 
 ### Page 1: Weather & Environmental Impact
-![Page 1](<img width="391" height="275" alt="Screenshot 2026-08-09 084529" src="https://github.com/user-attachments/assets/8b7af6f4-ebe4-4e8b-b55e-0c1edaaf4e1e" />)
+![Weather Impact](<img width="391" height="275" alt="Screenshot 2026-08-09 084529" src="https://github.com/user-attachments/assets/654a1201-6868-44c5-8944-7453ccaf8b88" />)
+
+---
 
 ### Page 2: Year-over-Year Growth
-![Page 2](<img width="388" height="283" alt="Screenshot 2026-08-09 084516" src="https://github.com/user-attachments/assets/61d84c3d-8c1c-4177-becf-d7399a19519c" />)
+![Yearly Growth](<img width="388" height="283" alt="Screenshot 2026-08-09 084516" src="https://github.com/user-attachments/assets/901e2f93-aba3-4614-861a-f5ff4853abc7" />)
+
+---
 
 ### Page 3: 24-Hour Peak Trends
-![Page 3](<img width="387" height="278" alt="Screenshot 2026-08-09 084454" src="https://github.com/user-attachments/assets/9fd9a905-8a49-4220-ad0e-fca6fe82ac5f" />)
+![24 Hour Trends](<img width="387" height="278" alt="Screenshot 2026-08-09 084454" src="https://github.com/user-attachments/assets/26f1c735-04e6-44a5-931a-a6c7a4fbd8f5" />)
+
 ---
 
 ## 📊 Business & Urban Mobility Problem
@@ -35,15 +42,15 @@ The primary objective of this project is to evaluate traffic flow dynamics acros
 ### Page 1: Weather & Environmental Impact on Traffic Volume
 * **KPI Cards:** Total Traffic Volume, Average Hourly Traffic, Total Records, and Peak Metrics at a glance.
 * **Weather Impact Bar Chart:** Horizontal bar chart highlighting total traffic volume across different weather conditions (Clouds, Clear, Rain, etc.).
-* **Interactive Year Slicer:** Button-style dynamic filtering for deep-dive yearly weather analysis.
+* **Interactive Year Slicer:** Dynamic filtering for deep-dive yearly weather analysis.
 
 ### Page 2: Year-over-Year Traffic Growth & Day-Type Distribution
-* **Yearly Breakdown (Stacked Column Chart):** Distribution of traffic volume categorized across Working Days, Weekends, and National Holidays (2012–2017).
+* **Yearly Breakdown (Stacked Column Chart):** Distribution of traffic volume categorized across Working Days, Weekends, and National Holidays.
 * **Holiday Traffic Comparison:** Visualizing traffic reduction during major public holidays.
 
 ### Page 3: 24-Hour Peak Traffic Trends & Holiday Analysis
 * **24-Hour Peak Trend (Line Chart):** Visualizing hourly traffic trajectories to identify morning and evening rush-hour spikes.
-* **Interactive Holiday Slicers:** Granular selection for individual holidays (Christmas, Thanksgiving, New Year's Day, etc.) to examine holiday commute behavior.
+* **Interactive Holiday Slicers:** Granular selection for individual holidays to examine commute behavior.
 
 ---
 
